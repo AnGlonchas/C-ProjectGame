@@ -1,6 +1,6 @@
 /*
 
-Usar de preferencia el compilador gcc de mingw-64
+C17 gcc mingw-64
 
 Proyecto de Fundamentos de la Programacion
 
